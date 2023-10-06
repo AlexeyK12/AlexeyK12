@@ -1,5 +1,5 @@
 ### Hi there 👋
-@@ -13,13 +13,14 @@ My name is Alexey Kudelckin and I`m Data scientist.
+My name is Alexey Kudelckin and I`m Data scientist.
 <!--
 **AlexeyK12/AlexeyK12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

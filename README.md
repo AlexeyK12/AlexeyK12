@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 |[**Diplomas-and-certificates**](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/README.md)|Дипломы, свидетельства, сертификаты курсов и хакатонов|
 |[**Data_scientist-Sberuniversity**](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/README.md)|Выполненные проекты и пройденные материалы в ходе обучения в Корпоративном Университете Сбербанка|
 |[**Data_analyst-Yandex.Practicum**](https://github.com/AlexeyK12/Data_analyst-Yandex.Practicum/blob/main/README.md)|Выполненные проекты в ходе прохождения обучения в Яндекс.Практикум|
-|[**SkolkovoHack-2022**](https://github.com/AlexeyK12/SkolkovoHack-2022/blob/main/README.md)|Интеллектуальный анализ работы хранилища данных на основании обработки логов|
 |[**Hackathon_Yandex_2023**](https://github.com/AlexeyK12/Hackathon_Yandex_2023/blob/main/README.md)|Хакатон по BIG Data - "Яндекс Практикума", выполненный совместно с командой дизайнеров и ПМ|
+|[**SkolkovoHack-2022**](https://github.com/AlexeyK12/SkolkovoHack-2022/blob/main/README.md)|Интеллектуальный анализ работы хранилища данных на основании обработки логов|

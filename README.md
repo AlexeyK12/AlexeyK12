@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![Image](fon_1.png)
+Содержание:
+|Репозиторий | О чем проект                                                     |
+|---------------|-------------------|------------------------------------------------------------------|
+|[PET-projects](https://github.com/AlexeyK12/PET-projects/blob/main/README.md)|Исследовательские проекты|

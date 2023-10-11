@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ![Image](fon_1.png)
 ### Содержание:
-|Репозиторий | Summary                                                          |
-|------------|------------------------------------------------------------------|
+|Репозиторий| Summary                                                          |
+|-----------|------------------------------------------------------------------|
 |[PET-projects](https://github.com/AlexeyK12/PET-projects/blob/main/README.md)|Исследовательские проекты|
 |[Diplomas-and-certificates](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/README.md)|Дипломы, свидетельства, сертификаты курсов и хакатонов|
 |[Data_scientist-Sberuniversity](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/README.md)|Выполненные проекты и пройденные материалы в ходе обучения в Корпоративном Университете Сбербанка|

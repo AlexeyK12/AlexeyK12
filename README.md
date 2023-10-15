@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 |Repository   | Summary                                                          |
 |-------------|------------------------------------------------------------------|
 |[**PET-projects**](https://github.com/AlexeyK12/PET-projects/blob/main/README.md)|Research projects on data analysis and machine learning|
-|[**Diplomas-and-certificates**](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/README.md)|Diplomas, certificates, certificates of courses and hackathons|
+|[**Diplomas&certificates**](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/README.md)|Diplomas, certificates, certificates of courses and hackathons|
 |[**Data_scientist-Sberuniversity**](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/README.md)|Completed projects and completed materials during training at Sberbank Corporate University|
 |[**Hackathon_Yandex_2023**](https://github.com/AlexeyK12/Hackathon_Yandex_2023/blob/main/README.md)|Hackathon on BIG Data carried out jointly with a team of designers and project manager|
 |[**Data_analyst-Ya.Practicum**](https://github.com/AlexeyK12/Data_analyst-Yandex.Practicum/blob/main/README.md)|Completed projects during the course of training in Yandex.Practicum|

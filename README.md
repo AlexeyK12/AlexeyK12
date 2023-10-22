@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Image](fon_1.png)
 
-|             | Repository   | Summary                                                          |
+|             | Repository   | Content                                                          |
 |-------------|-------------|------------------------------------------------------------------|
 |![Image](pet_project_1.png)| [**PET-projects**](https://github.com/AlexeyK12/PET-projects/blob/main/README.md) | Research projects on data analysis and machine learning |
 |![Image](sert_1.png)|[**Diplomas&certificates**](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/README.md)|Diplomas, certificates, certificates of courses and hackathons|

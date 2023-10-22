@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 
 ![Image](fon_1.png)
 
-|             | Repository   | Content                                                          |
-|-------------|-------------|------------------------------------------------------------------|
-| <a href="https://github.com/AlexeyK12/PET-projects/blob/main/README.md"><img src="pet_project_1.png" alt="PET Projects"></a> | [**PET-projects**](https://github.com/AlexeyK12/PET-projects/blob/main/README.md) | Research projects on data analysis and machine learning |
-| <a href="https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/README.md"><img src="sert_1.png" alt="Diplomas & Certificates"></a> | [**Diplomas&certificates**](https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/README.md) | Diplomas, certificates, certificates of courses and hackathons |
-| <a href="https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/README.md"><img src="sber_1.png" alt="Data Scientist - Sberuniversity"></a> | [**Data_scientist-Sberuniversity**](https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/README.md) | Completed projects and completed materials during training at Sberbank Corporate University |
-| <a href="https://github.com/AlexeyK12/Hackathon_Yandex_2023/blob/main/README.md"><img src="YP_1.png" alt="March_Yandex_2023"></a> | [**March_Yandex_2023**](https://github.com/AlexeyK12/Hackathon_Yandex_2023/blob/main/README.md) | Hackathon on BIG Data carried out jointly with a team of designers and project manager |
-| <a href="https://github.com/AlexeyK12/Data_analyst-Yandex.Practicum/blob/main/README.md"><img src="ЯП_1.png" alt="Data_analyst-Ya.Practicum"></a> | [**Data_analyst-Ya.Practicum**](https://github.com/AlexeyK12/Data_analyst-Yandex.Practicum/blob/main/README.md) | Completed projects during the course of training in Yandex.Practicum |
-| <a href="https://github.com/AlexeyK12/SkolkovoHack-2022/blob/main/README.md"><img src="hack_1.png" alt="SkolkovoHack-2022"></a> | [**SkolkovoHack-2022**](https://github.com/AlexeyK12/SkolkovoHack-2022/blob/main/README.md) | Intelligent analysis of data warehouse operation based on log processing |
+|Repository | Content |
+|---|---|
+| <a href="https://github.com/AlexeyK12/PET-projects/blob/main/README.md"><img src="pet_project_1.png" alt="PET-projects"></a> | Research projects on data analysis and machine learning |
+| <a href="https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/README.md"><img src="sert_1.png" alt="Diplomas&certificates"></a> | Diplomas, certificates, certificates of courses and hackathons |
+| <a href="https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/README.md"><img src="sber_1.png" alt="Data_scientist-Sberuniversity"></a> | Completed projects and completed materials during training at Sberbank Corporate University |
+| <a href="https://github.com/AlexeyK12/Hackathon_Yandex_2023/blob/main/README.md"><img src="YP_1.png" alt="March_Yandex_2023"></a> | Hackathon on BIG Data carried out jointly with a team of designers and project manager |
+| <a href="https://github.com/AlexeyK12/Data_analyst-Yandex.Practicum/blob/main/README.md"><img src="ЯП_1.png" alt="Data_analyst-Ya.Practicum"></a> | Completed projects during the course of training in Yandex.Practicum |
+| <a href="https://github.com/AlexeyK12/SkolkovoHack-2022/blob/main/README.md"><img src="hack_1.png" alt="SkolkovoHack-2022"></a> | Intelligent analysis of data warehouse operation based on log processing |
+
 

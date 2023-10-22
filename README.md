@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 |[**March_Yandex_2023**](https://github.com/AlexeyK12/Hackathon_Yandex_2023/blob/main/README.md)|Hackathon on BIG Data carried out jointly with a team of designers and project manager|
 |[**Data_analyst-Ya.Practicum**](https://github.com/AlexeyK12/Data_analyst-Yandex.Practicum/blob/main/README.md)|Completed projects during the course of training in Yandex.Practicum|
 |[**SkolkovoHack-2022**](https://github.com/AlexeyK12/SkolkovoHack-2022/blob/main/README.md)|Intelligent analysis of data warehouse operation based on log processing|
-|![Image](fon.png)||
+|![Image](fon_1.png)||
 

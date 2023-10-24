@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 |---|---|
 | <a href="https://github.com/AlexeyK12/PET-projects/blob/main/README.md"><img src="pet_project_1.png" alt="PET-projects"></a> | Research projects on data analysis and machine learning |
 | <a href="https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/README.md"><img src="sert_1.png" alt="Diplomas&certificates"></a> | Diplomas, certificates, certificates of courses and hackathons |
-| <a href="https://github.com/AlexeyK12/GlowByte-Autumn-Hack-2023/blob/main/README.md"><img src="fonglowbyte_1.png" alt="GlowByte-Autumn-Hack-2023"></a> | GlowByte-Autumn-Hack-2023 |
+| <a href="https://github.com/AlexeyK12/GlowByte-Autumn-Hack-2023/blob/main/README.md"><img src="fonglowbyte_2.png" alt="GlowByte-Autumn-Hack-2023"></a> | GlowByte-Autumn-Hack-2023 |
 | <a href="https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/README.md"><img src="sber_1.png" alt="Data_scientist-Sberuniversity"></a> | Completed projects and ready-made materials while studying at Sberbank Corporate University on a refresher course - "Data scientist" |
 | <a href="https://github.com/AlexeyK12/Hackathon_Yandex_2023/blob/main/README.md"><img src="Хакатон.jpg" alt="March_Yandex_2023"></a> | Hackathon on BIG Data carried out jointly with a team of designers and project manager |
 | <a href="https://github.com/AlexeyK12/Data_analyst-Yandex.Practicum/blob/main/README.md"><img src="ЯП_1.png" alt="Data_analyst-Ya.Practicum"></a> | Completed projects during training at Yandex.The workshop on the course of professional retraining - "Data analyst" |

@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 |---|---|
 | <a href="https://github.com/AlexeyK12/PET-projects/blob/main/README.md"><img src="pet_project_1.png" alt="PET-projects"></a> | Research projects on data analysis and machine learning |
 | <a href="https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/README.md"><img src="fon_sert_2.png" alt="Diplomas&certificates"></a> | Diplomas, certificates, certificates of courses and hackathons |
+| <a href="https://github.com/AlexeyK12/Digital_Transformation_League_Hack/tree/main"><img src="fon_lct.png" alt="Digital_Transformation_League"></a> | Hackaton |
 | <a href="https://github.com/AlexeyK12/ML_training/blob/main/README.md"><img src="fon_тренировки_ML.png" alt="ML_training"></a> |A month-long intensive on machine learning, conducted jointly with the School of Data Analysis|
 | <a href="https://github.com/AlexeyK12/GlowByte-Autumn-Hack-2023/blob/main/README.md"><img src="fonglowbyte_3.png" alt="GlowByte-Autumn-Hack-2023"></a> | Development of a model for forecasting the total energy consumption of the Kaliningrad region for a day|
 | <a href="https://github.com/AlexeyK12/Data_scientist-Sberuniversity/blob/main/README.md"><img src="sberfon_1.png" alt="Data_scientist-Sberuniversity"></a> | Completed projects and ready-made materials while studying at Sberbank Corporate University on a refresher course - "Data scientist" |

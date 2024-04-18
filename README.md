@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 |---|---|
 | <a href="https://github.com/AlexeyK12/PET-projects/blob/main/README.md"><img src="pet_project_1.png" alt="PET-projects"></a> | Research projects on data analysis and machine learning |
 | <a href="https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/README.md"><img src="fon_sert_2.png" alt="Diplomas&certificates"></a> | Diplomas, certificates, certificates of courses and hackathons |
-| <a href="https://github.com/AlexeyK12/Natural-Language-Processing/blob/main/README.md"><img src="pymagic.png" alt="Natural-Language-Processing"></a> | Materials of the course on natural language processing |
+| <a href="https://github.com/AlexeyK12/Natural-Language-Processing/blob/main/README.md"><img src="pymagic_1.png" alt="Natural-Language-Processing"></a> | Materials of the course on natural language processing |
 | <a href="https://github.com/AlexeyK12/Digital_Transformation_League_Hack/tree/main"><img src="fon_lct.png" alt="Digital_Transformation_League"></a> | Development of a comprehensive analytical solution for monitoring employee performance, including visualization, machine learning and database interaction |
 | <a href="https://github.com/AlexeyK12/ML_training/blob/main/README.md"><img src="fon_тренировки_ML.png" alt="ML_training"></a> |A month-long intensive on machine learning, conducted jointly with the School of Data Analysis|
 | <a href="https://github.com/AlexeyK12/GlowByte-Autumn-Hack-2023/blob/main/README.md"><img src="fonglowbyte_3.png" alt="GlowByte-Autumn-Hack-2023"></a> | Development of a model for forecasting the total energy consumption of the Kaliningrad region for a day|

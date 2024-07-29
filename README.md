@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/AlexeyK12/PET-projects/blob/main/README.md"><img src="pet_project_1.png" alt="PET-projects"></a> | Research projects on data analysis and machine learning |
 | <a href="https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/README.md"><img src="fon_sert_2.png" alt="Diplomas&certificates"></a> | Diplomas, certificates, certificates of courses and hackathons |
 | <a href="https://github.com/AlexeyK12/Digital_Transformation_League_Hack/tree/main"><img src="fon_lct.png" alt="Digital_Transformation_League"></a> | Development of a comprehensive analytical solution for monitoring employee performance, including visualization, machine learning and database interaction |
-| <a href="https://github.com/AlexeyK12/AI-ARROW/blob/main/README.md"><img src="ai_2.png" alt="AI-ARROW"></a> | BootCamp |
+| <a href="https://github.com/AlexeyK12/AI-ARROW/blob/main/README.md"><img src="ai_2.png" alt="AI-ARROW"></a> | Bootcamp for ML and DL senior level, with the final task of creating a Telegram chatbot based on LLM |
 | <a href="https://github.com/AlexeyK12/Competitive_Data_Science/blob/main/README.md"><img src="shot_logo_1.png" alt="Competitive_Data_Science"></a> | A course on the intricacies of competitive data analysis and machine learning |
 | <a href="https://github.com/AlexeyK12/Natural-Language-Processing/blob/main/README.md"><img src="pymagic_1.png" alt="Natural-Language-Processing"></a> | Materials of the course on Natural Language Processing |
 | <a href="https://github.com/AlexeyK12/ML_training/blob/main/README.md"><img src="fon_тренировки_ML.png" alt="ML_training"></a> |A month-long intensive on machine learning, conducted jointly with the School of Data Analysis|

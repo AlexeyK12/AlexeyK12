@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 |---|---|
 | <a href="https://github.com/AlexeyK12/PET-projects/blob/main/README.md"><img src="pet_project_1.png" alt="PET-projects"></a> | Research projects on data analysis and machine learning |
 | <a href="https://github.com/AlexeyK12/Diplomas-and-certificates/blob/main/README.md"><img src="fon_sert_2.png" alt="Diplomas&certificates"></a> | Diplomas, certificates, certificates of courses and hackathons |
+| <a href="https://github.com/AlexeyK12/Natural-Language-Processing-course/blob/main/README.md"><img src="2024-09-24_15-13-11_2.png" alt="DLS"></a> |Natural Language Processing course|
 | <a href="https://github.com/AlexeyK12/DLS/blob/main/README.md"><img src="2024-09-24_15-13-11_1.png" alt="DLS"></a> |Computer Vision course|
 | <a href="https://github.com/AlexeyK12/Digital_Transformation_League_Hack/tree/main"><img src="fon_lct.png" alt="Digital_Transformation_League"></a> | Development of a comprehensive analytical solution for monitoring employee performance, including visualization, machine learning and database interaction |
 | <a href="https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/README.md"><img src="2024-10-15_21-21-44.png" alt="AI-ARROW - Autumn_2024"></a> | Autumn bootcamp on computer vision |
